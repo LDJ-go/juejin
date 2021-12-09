@@ -1,0 +1,36 @@
+html {
+  font-size: 12px;
+  word-break: break-word;
+  text-rendering: optimizeLegibility;
+  color: #333;
+  background-color: #f4f5f5;
+}
+* {
+  margin: 0;
+  padding: 0;
+}
+ul {
+  list-style: none;
+}
+ul li {
+  display: inline;
+}
+a {
+  text-decoration: none;
+  color: #71777c;
+}
+a a:hover {
+  color: #007fff;
+}
+.active {
+  color: #1e80ff;
+}
+.dividing {
+  width: 1px;
+  height: 14px;
+  background: #e5e6eb;
+  margin: 0 8px;
+}
+.router:hover {
+  color: #007fff;
+}
